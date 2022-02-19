@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EsraaEbrahim
 - 👀 I’m interested in Embedded system
 - 🌱 I’m currently learning Embedded system
-- 📫 How to reach me www.linkedin.com/in/esraa-ebrahim-0a2087178[linkedin]
+- 📫 How to reach me www.linkedin.com/in/esraa-ebrahim-0a2087178 [linkedin]
    esraaebrahim1011@gmail.com[Email]
 
 <!---
